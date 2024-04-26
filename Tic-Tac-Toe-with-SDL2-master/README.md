@@ -38,18 +38,13 @@ Nếu người chơi O chiến thắng:
 
 ![2](https://github.com/mrshallow2k5/caro/assets/156581208/277db131-a6f7-4d8f-a632-e2f221f2de55)
 
-
-
 Nếu người chơi X chiến thắng:
 
 ![3](https://github.com/mrshallow2k5/caro/assets/156581208/089616eb-b738-4392-9253-944bae98ed4b)
 
-
-
 Nếu hòa:
 
 ![4](https://github.com/mrshallow2k5/caro/assets/156581208/d7b21bce-bf33-4435-babe-0faa88cc494a)
-
 
 
 ## 5. Chơi lại
