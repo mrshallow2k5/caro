@@ -65,7 +65,7 @@ Nếu bạn muốn chơi lại thì hãy nhấn "Y/N" trên bàn phím
 Mã nguồn đã tham khảo:
 [[Lazyfool](https://lazyfoo.net/tutorials/SDL/).](https://github.com/ryan-tabar/Tic-Tac-Toe-with-SDL2)
 
-## 5. Thêm tính năng
+## 6. Thêm tính năng
 1: Chóp chóp khi thắng. Ví dụ X chiến thắng theo đường chéo thì đường chéo chóp chóp tương tự với hàng ngang và hàng dọc
 
 2: Hiển thị messge thông báo X hoặc O đã chiến thắng hoặc hòa nhau. Và bắt đầu lại trò chơi nếu người chơi muốn chơi tiếp
