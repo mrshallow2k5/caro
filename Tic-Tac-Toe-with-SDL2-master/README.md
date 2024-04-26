@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-with-SDL2 in C++
 ![Screenshot2](assets/Screenshot2.png?raw=true)
-- Thử nghiệm game: 
+- Thử nghiệm game: https://drive.google.com/file/d/1kMjYdwAjPDGjHdlJ_jN_MLv4BqSyUae6/view?usp=sharing
 
 ## 0.GIỚI THIỆU GAME
 Tic Tac Toe là một trò chơi trên bảng 3x3, trong đó hai người chơi lần lượt đánh dấu "X" và "O" trên các ô trống. Mục tiêu của trò chơi là tạo ra một hàng ngang, dọc hoặc chéo gồm ba dấu của một người chơi trước khi đối thủ làm được điều đó.
